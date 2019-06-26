@@ -1,0 +1,7 @@
+Problem Statement
+-----------------------
+*The multi-national company requires an environment where employees of the organisation must be able to perform crud related operation on the same data(related to corporate customer accounting), across 12 different locations.The employee should be able 
+to view a customer acccount.The employee should be able 
+to delete a customer acccount.The employee should be able 
+to update a customer acccount.The employee should be able 
+to add a customer acccount.

@@ -1,0 +1,14 @@
+Non-Functional Requirements
+-------------------------------------
+* The application must be scalable.
+* The application must be extensible.
+* The application must run on either google cloud or AWS cloud platform.
+* The application must be secure.
+* The application must support google chrome 8+ versions.
+
+Functional Requirements
+-------------------------------
+* The user must be able to view customers accounting related information.
+* The user must be able to add customers accounting related information.
+* The user must be able to update customers accounting related information.
+* The user must be able to delete customers accounting related information.
